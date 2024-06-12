@@ -1,0 +1,103 @@
+.imglogo {
+  width: 300px;
+}
+
+.imgreserva {
+  width: 120px;
+}
+
+.titlesec {
+  color: #ee2b7b;
+}
+
+.btn {
+    background-color: #ee2b7b;
+    color: white;
+    border-color: #D7BDE2;
+    font-family: montserrat, Sans-serif;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+  }
+
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.containerR {  
+  background-color: pink; /* Color de fondo */
+  width: auto;
+  margin: 80px;
+}
+
+.containerI {
+  width: 500px;
+  height: auto;
+  margin: 10px;
+}
+
+.registro {
+  padding: 40px 0;
+}
+
+.form-registro {
+  background-color: #ee2b7b;
+  padding: 50px;
+  border-radius: 20px;
+  width: 500px;
+  margin: auto;
+}
+
+.formulario {
+    color: white ;
+    width: 300px;
+    margin-left: 650px;
+    
+}
+
+.reservation{
+  width: 300px;
+}
+
+.misreservas{
+  color: black ;
+  width: auto;
+  margin-left: 650px;
+  
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+.fondoPP{
+  background-color: #f0f0f0; /* Color de fondo */
+  background-image: url('/public/FondoPP.jpg'); /* Imagen de fondo */
+  background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat; /* No repite la imagen */
+  padding: 110px; /* Añade algo de relleno alrededor del contenido */  
+}
+
+.Loguin{
+  background-color: #f0f0f0; /* Color de fondo */
+  background-image: url('/public/Loguin.jpg'); /* Imagen de fondo */
+  background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat; /* No repite la imagen */
+  padding: 204px; /* Añade algo de relleno alrededor del contenido */
+}
+
+.reserva{
+  background-color: #f0f0f0; /* Color de fondo */
+  background-image: url('/public/Reservas.jpg'); /* Imagen de fondo */
+  background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat; /* No repite la imagen */
+  padding: 110px; /* Añade algo de relleno alrededor del contenido */
+}
